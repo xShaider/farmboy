@@ -11,8 +11,8 @@
 
 #define HOST "iklog2024.000.pe"          // Enter HOST URL without "http:// "  and "/" at the end of URL
 
-#define WIFI_SSID "PangPogiLang"            // WIFI SSID here                                   
-#define WIFI_PASSWORD "wlan342e6"        // WIFI password here
+#define WIFI_SSID "PLDTHOMEWIFI"            // WIFI SSID here                                   
+#define WIFI_PASSWORD "pldt2024"        // WIFI password here
 
 // Declare global variables which will be uploaded to server
 
